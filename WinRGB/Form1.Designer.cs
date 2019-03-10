@@ -1,4 +1,4 @@
-﻿namespace WindowsFormsApp1
+﻿namespace WinRGB
 {
     partial class Form1
     {
