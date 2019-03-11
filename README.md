@@ -10,6 +10,6 @@ HotTracking / Mouse Selection Box Color Tweaker
 ### Simple Interface
 ![alt text](https://i.imgur.com/hxRtDXj.png)
 
-## Precompiled binary is available for [Download](https://github.com/Volvo2v1/WinRGB/blob/master/bin/WinRGB.exe)
+## Precompiled binary is available for [Download](https://github.com/Volvo2v1/WinRGB/releases)
 
 2019 Volvo2v1
